@@ -26,7 +26,7 @@ SECRET_KEY = os.path.join(BASE_DIR, 'secret.txt')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['the-bloggers-app.heroku.com']
+ALLOWED_HOSTS = ["the-bloggers-app.heroku.com"]
 
 
 # Application definition
